@@ -58,6 +58,12 @@ export const vanillaPortfolio = [{
     img: "https://i.pinimg.com/750x/e6/40/5a/e6405a9f975157bcd118387c0240ef36.jpg",
     url: "https://shop-task.vercel.app/",
   },
+  {
+    id: 11,
+    title: "C3 Landing Page",
+    img: "https://i.pinimg.com/750x/96/b7/47/96b74762f26feb16889bdc1a58832cf9.jpg",
+    url: "https://c3-landingpage.vercel.app/",
+  },
 ];
 
 
