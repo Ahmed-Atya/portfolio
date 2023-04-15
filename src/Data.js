@@ -64,6 +64,12 @@ export const vanillaPortfolio = [{
     img: "https://i.pinimg.com/750x/96/b7/47/96b74762f26feb16889bdc1a58832cf9.jpg",
     url: "https://c3-landingpage.vercel.app/",
   },
+  {
+    id: 12,
+    title: "Kasper Theme",
+    img: "https://i.pinimg.com/750x/8c/df/07/8cdf0769b1cc7bc08c52a86f13cca797.jpg",
+    url: "https://kasper-henna.vercel.app/",
+  },
 ];
 
 
