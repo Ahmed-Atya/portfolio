@@ -79,20 +79,45 @@ export const vanillaPortfolio = [{
 export const reactPortfolio = [{
     id: 1,
     title: "Expenses Tracker App",
-    img: "https://cdn.dribbble.com/userupload/6120350/file/original-8edd8e13d5527870bea86931432844a9.png?compress=1&resize=1024x640",
+    img: "https://res.cloudinary.com/dn2h4huhm/image/upload/v1751973933/dddddddd_ys5gz2.png",
     url: "http://expense-tracker-pied-psi.vercel.app/",
   },
   {
     id: 2,
     title: "linkify React App",
-    img: "https://cdn.dribbble.com/userupload/6120337/file/original-4c75340c08677c7dca6d7e0498708f38.png?compress=1&resize=1024x640",
+    img: "https://res.cloudinary.com/dn2h4huhm/image/upload/v1751974005/dddddddddddddddddddddd_m1cb1x.png",
     url: "http://li-nkity.vercel.app/",
   },
   {
     id: 3,
     title: "Images generator by api",
-    img: "https://cdn.dribbble.com/userupload/6120342/file/original-f240eedc0537e3d8f9edb63195c7c033.png?compress=1&resize=1024x640",
+    img: "https://res.cloudinary.com/dn2h4huhm/image/upload/v1751974086/gallary_njw5h4.png",
     url: "http://imagesgallery.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "React Todo App",
+    img: "https://res.cloudinary.com/dn2h4huhm/image/upload/v1751973090/download_kjoyip.png",
+    url: "https://todo-app-frontend-tan.vercel.app/",
+  }
+  ,
+  {
+    id:5,
+    title: "React Ecommerce App",
+    img: "https://res.cloudinary.com/dn2h4huhm/image/upload/v1751973464/ecommerce_rbll9c.png",
+    url: "https://ecommerce-store-iota-wine.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Vs Code Clone",
+    img: "https://res.cloudinary.com/dn2h4huhm/image/upload/v1751973696/vscodeclone_evzamu.png",
+    url: "https://vs-code-clone-murex.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Product Builder App",
+    img: "https://res.cloudinary.com/dn2h4huhm/image/upload/v1751973846/download_1_dcwucm.png",
+    url: "https://product-builder-lovat.vercel.app/",
   },
 
 ];
